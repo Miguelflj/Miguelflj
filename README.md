@@ -9,5 +9,11 @@
   </h3>
 </samp>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p align="center">
+Quantidade de visitas<br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Miguelflj/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre 😄
+</p>
 
